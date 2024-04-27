@@ -1,5 +1,13 @@
 # jorgX_poc
 
+## Ważne linki:
+- Backend: https://github.com/szymonpogwizd/jorgX_backend
+- Forntend: https://github.com/szymonpogwizd/jorgX_frontend
+- POC: https://github.com/szymonpogwizd/jorgX_poc
+- JIRA: https://spogwizd.atlassian.net/jira/software/projects/JORGX/boards/1/backlog
+- Dokumentacja: https://www.overleaf.com/project/65ea01183a0e33d0bce684a6
+- Confluence: https://spogwizd.atlassian.net/wiki/spaces/J/pages
+
 ## Opis
 Projekt "jorgX_poc" to Proof of Concept (PoC) dla systemu analizy sentymentu wykorzystującego model przetwarzania języka naturalnego (NLP) w TensorFlow i interfejs API TensorFlow w Javie. Projekt składa się z dwóch głównych części: skryptu Pythona do trenowania modelu NLP na danych IMDB oraz aplikacji Java, która wykorzystuje wytrenowany model do przewidywania sentymentu na podstawie recenzji wprowadzonych przez użytkownika.
 
